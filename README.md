@@ -2,6 +2,4 @@ In this challenge, you will work in pairs to using Django, HTML, CSS and Bootstr
 
 1. [Netflix](https://www.netflix.com)
 2. [Apple](https://www.apple.com)
-3. [Garoa Skincare](https://garoaskincare.com)
-4. [Koox](https://koox.co.uk/)
-5. [Franshal Museum](https://www.franshalsmuseum.nl/en/)
+
