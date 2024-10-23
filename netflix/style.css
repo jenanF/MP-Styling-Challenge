@@ -1,0 +1,90 @@
+.welcom-div {
+    background-image: url("https://images.squarespace-cdn.com/content/v1/5c30aef15b409b49b09b1ed3/081992bd-5275-4801-886b-50436211556b/PW_Intor_2023_0000s_0000_Layer+2.jpg?format=2500w");
+    height: 650px;
+    background-size: cover;
+    position: relative;
+
+
+}
+
+.netflix-logo {
+    height: 170px;
+    padding-left: 30px;
+    position: absolute;
+    top: 20px;
+    left: 15px;
+
+
+}
+
+.shadow-welcom-div {
+    position: absolute;
+    height: 650px;
+    width: 100%;
+    /* background-color: red; */
+    background: rgb(0, 0, 0);
+    background: linear-gradient(0deg,
+            rgba(0, 0, 0, 0.75) 120%,
+            rgba(0, 0, 0, 0) 100%);
+}
+
+.welcom-first-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 85px;
+    position: relative;
+}
+
+.lanuages-dropdown {
+    position: absolute;
+    background-color: #000000;
+    color: white;
+    height: 35px;
+    width: 140px;
+    border-radius: 10px;
+    border-width: 1px;
+    padding-left: 2px;
+    margin-left: 700px;
+}
+
+.signin-button {
+
+    height: 35px;
+    width: 100px;
+    background-color: red;
+    color: white;
+    font-weight: bold;
+    font-size: medium;
+    margin-left: 1000px;
+    border-style: none;
+    border-radius: 10px;
+
+}
+
+.welcom-subheading {
+    color: white;
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.welcom-heading1 {
+    color: white;
+    font-weight: 800;
+    font-size: 60px;
+    text-align: center;
+    position: absolute;
+    white-space: pre-line;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.welcom-heading-div {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+
+
+}
