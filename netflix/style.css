@@ -1,3 +1,7 @@
+body {
+    background-color: rgb(3, 3, 27);
+}
+
 .welcom-div {
     background-image: url("https://images.squarespace-cdn.com/content/v1/5c30aef15b409b49b09b1ed3/081992bd-5275-4801-886b-50436211556b/PW_Intor_2023_0000s_0000_Layer+2.jpg?format=2500w");
     height: 650px;
@@ -141,7 +145,7 @@
 
 .trending-movies {
 
-    height: 1000px;
+    height: 2000px;
     background-color: rgb(3, 3, 27);
 
 }
