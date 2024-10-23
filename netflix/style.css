@@ -137,3 +137,36 @@
     justify-content: center;
     margin-top: 350px;
 }
+
+
+.trending-movies {
+
+    height: 500px;
+    background-color: rgb(3, 3, 27);
+
+}
+
+.trending-heading {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 40px;
+}
+
+.movies-container {
+
+    display: flex;
+    justify-content: space-around;
+    top: 0;
+    align-items: center;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.movie-card {
+    border-radius: 20px;
+}
+
+.movies {
+    height: 300px;
+    border-radius: 20px;
+}
