@@ -141,7 +141,7 @@
 
 .trending-movies {
 
-    height: 500px;
+    height: 1000px;
     background-color: rgb(3, 3, 27);
 
 }
@@ -149,7 +149,7 @@
 .trending-heading {
     color: white;
     font-family: Arial, Helvetica, sans-serif;
-    padding: 40px;
+    padding: 60px;
 }
 
 .movies-container {
@@ -169,4 +169,36 @@
 .movies {
     height: 300px;
     border-radius: 20px;
+}
+
+.reasons-to-join-text {
+
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: x-large;
+
+}
+
+.reason-description {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.reason-card {
+
+    border-radius: 20px;
+    width: 200px;
+    height: 280px;
+    background-color: rgb(38, 10, 54);
+    padding: 15px;
+
+
+}
+
+.iconn {
+
+    height: 130px;
+    padding-left: 80px;
 }
